@@ -52,11 +52,10 @@ Install the required Python packages:
 	Fina_traffic.py
 
 OUTPUT:
-• HTML Output:
  ![image](https://github.com/user-attachments/assets/cac0ed0e-d681-47d8-9939-815e8b98d35f)
-FIRST WINDOW
+
 
  ![image](https://github.com/user-attachments/assets/8df7391d-2dc2-4aaf-9475-0265b7d6fb6b)
-SECOND WINDOW
+
 
 
